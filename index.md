@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## PDMreader a simple app for you browsing powerdesigner PDM file！
+### Introduction
+PDMreader can open PowerDesigner pdm file which encoded in xml,and show table list and column details.  you can use search bar to filter the tables which table name or table code or column name or column code match the key word.the app can also generate a simple creating table sql.
+### Tutorial
+- Launch the app,tap the **Open PDM** button on the startup interface to open a file.
+- You can pick a file in your phone or iCloud storage,
+Or pick a file which is used recently.  
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11pickfile.png" alt="pick file" width="60%" height="60%">
 
-You can use the [editor on GitHub](https://github.com/YouYoungStudio/pdmreader-en/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Now you have opened a PDM file，then PDMreader show you a table list.  
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11tablelist.png" alt="table list" width="60%" height="60%">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- On the table list interface，you can use search bar to filter the tables which table name or table code or column name or column code match the key word.  
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11search.png" alt="search" width="60%" height="60%">
 
-### Markdown
+- Tap arrow sign to the right of any table items in the table list,colunm list will show.Tap arrow sign to the right of any column items,you can get the column detailed information which include data type、data length、mandatory and comment.
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11columndetail.png" alt="column list" width="60%" height="60%">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- On the column list interface,tap the **SQL** button,then generate a simple sql of creating table. So far,only table name、data type、data length and mandatory are included in the sql.You can copy the sql by tapping the **Copy** button.
+ <img src="https://youyoungstudio.github.io/pdmreader/iPhone11sql.png" alt="sql" width="60%" height="60%">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YouYoungStudio/pdmreader-en/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+If you encounter any issues when using PDMreader, You can contact us By email: rockyswang@icloud.com
