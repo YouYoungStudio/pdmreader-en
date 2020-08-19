@@ -1,4 +1,4 @@
-## PDMreader a simple app for you browsing powerdesigner PDM file！
+## PDMreader a simple app for you browsing powerdesigner PDM file
 ### Introduction
 PDMreader can open PowerDesigner pdm file which encoded in xml,and show table list and column details.  you can use search bar to filter the tables which table name or table code or column name or column code match the key word.the app can also generate a simple creating table sql.  
 ### Tutorial
