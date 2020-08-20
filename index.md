@@ -21,3 +21,5 @@ Or pick a file which is used recently.
 
 ### Contact
 If you encounter any issues when using PDMreader, You can contact us By email: rockyswang@icloud.com
+
+[Privacy policy](https://youyoungstudio.github.io/pdmreader/privacy.html)
