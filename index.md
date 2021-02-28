@@ -20,7 +20,7 @@ Or pick a file which is used recently.
  <img src="https://saveyourfile.space/pdmreader/iPhone11IndexTab.png" alt="column list" width="60%" height="60%">
 
 - On the column list interface,tap the **Create table SQL** button,then generate a simple sql of creating table. So far,only table name、data type、data length and mandatory are included in the sql.You can copy the sql by tapping the **Copy** button.  
- <img src="https://saveyourfile.space/iPhone11sql.png" alt="sql" width="60%" height="60%">
+ <img src="https://saveyourfile.space/pdmreader/iPhone11sql.png" alt="sql" width="60%" height="60%">
  
 - Tap Procedures tab,then show procedures details.click every line to show procedures and functions text.
  <img src="https://saveyourfile.space/pdmreader/iPhone11procedures.png" alt="column list" width="60%" height="60%">
